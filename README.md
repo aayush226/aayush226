@@ -1,16 +1,15 @@
 ### Hi there 👋
+😄 I'm Aayush Shah, I'm an Engineer from Birla Institute of Technology and Science, Pilani 👨‍💻
 
-<!--
-**aayush226/aayush226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤩 I am interested in Open Source, Software Development and Engineering.
 
-Here are some ideas to get you started:
+😎 I have developed 2 projects called [sketchER](https://github.com/aayush226/sketchER) and [Intertwine](https://github.com/aayush226/Intertwine) and I am currently working on adding new awesome features in them!🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ I’m looking for Software engineering internship opportunities 🙋‍♂️.
+
+👉 I’m interested in solving problems and building software that impact people around me 🙌
+
+🤝 Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/aayush-jayesh-shah)
+
+
+

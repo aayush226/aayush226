@@ -8,7 +8,3 @@
 👉 I’m interested in solving problems and building software that impact people around me 🙌
 
 🤝 Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/aayush-jayesh-shah)
-
-
-
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=aayush226&show_icons=true)

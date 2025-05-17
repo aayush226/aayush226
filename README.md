@@ -1,5 +1,5 @@
 ### Hi there 👋
-😄 I'm Aayush Shah, I'm an upcoming Engineer from Birla Institute of Technology and Science, Pilani 👨‍💻
+😄 I'm Aayush Shah, I'm a MS Computer Science student from NYU! 👨‍💻
 
 🤩 I am interested in Open Source, Software Development and Engineering.
 

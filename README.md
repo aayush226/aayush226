@@ -1,10 +1,10 @@
 ### Hi there 👋
 😄 I'm Aayush Shah, I'm a MS Computer Science student from NYU! 👨‍💻
 
-🤩 I am interested in Open Source, Software Development and Engineering.
+🤩 I'm interested in AI Engineering
 
-😎 I have developed 2 projects called [sketchER](https://github.com/aayush226/sketchER) and [Intertwine](https://github.com/aayush226/Intertwine) and I am currently working on adding new awesome features in them!🚀
+😎 I enjoy breaking down latest AI research papers and I'm currently working on replicating latest AI research🚀
 
-👉 I’m interested in solving problems and building software that impact people around me 🙌
+👉 I like solving problems and building software that impact people around me 🙌
 
 🤝 Feel free to connect with me on [LinkedIn](http://www.linkedin.com/in/aayush-jayesh-shah)
